@@ -5,6 +5,9 @@
 (require "assert.rkt")
 (require "oop.rkt")
 
+;;; Performs two assert functions (their behavior can be observed in the second value passed to assert)
+;;; Passes structures on to the grab-students method with a predicate which always returns true
+;;; As the predicate always returns true, we only need to pass the length of gsl as the amount of retries
 (define (group-random sl gsl)
     (assert (andmap exact-nonnegative-integer? gsl) "gls: may only contain nonnegative integers!")
     (assert (= (apply + gsl) (length sl)) "sl: must have length of sum of gsl")
@@ -31,14 +34,20 @@
          [sort (sort lst string<? #:key extract-key)])
     (group-by-counting sort k)))
 
+;;; Same as group-random except for two points:
+;;; It allows the caller to define 
+;;; 1. the predicate by which groups are accepted, and
+;;; 2. the amount of times the helper function will retry if a group is rejected
 (define (group-random-by-predicate sl gsl pred retries)
   (assert (andmap exact-nonnegative-integer? gsl) "gls: may only contain nonnegative integers!")
   (assert (= (apply + gsl) (length sl)) "sl: must have length of sum of gsl")
   (grab-students '() (shuffle sl) gsl pred retries))
 
-;;; Helper function
-(define (grab-students result students source pred? max-iter)
-  (if (or (null? source) (zero? max-iter))
+;;; Grab students takes in a list of students and a list of group sizes
+;;; and randomly 'grabs' students from the student list, matching them against a predicate
+;;; if the predicate fails, then the function tries again, decrementing the retries
+(define (grab-students result students source pred? retries)
+  (if (or (null? source) (zero? retries))
         result
         (let*
            ([group-number (length source)]
@@ -47,7 +56,7 @@
             [src    (if (pred? group) (cdr source) source)]
             [stdnts (if (pred? group) (list-tail students crnt) (shuffle students))]
             [rslt   (if (pred? group) (append (map (λ (el) (cons group-number el)) group) result) result)])
-          (grab-students rslt stdnts src pred? (- max-iter 1)))))
+          (grab-students rslt stdnts src pred? (- retries 1)))))
 
 ;;; Checks whether all students in a group are female
 (define (all-female? group)

@@ -14,7 +14,6 @@
 #lang racket
 (require "oop.rkt")
 (require "students.rkt")
-(require "groups.rkt")
 (require "groupings.rkt")
 
 (define stdnts (take students 200))
