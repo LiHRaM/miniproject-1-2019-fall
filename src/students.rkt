@@ -4,4 +4,4 @@
 (require "students/student.rkt")
 
 (define students
-    (process-students students-raw))
+    (map student students-raw))

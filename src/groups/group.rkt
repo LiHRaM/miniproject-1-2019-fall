@@ -1,9 +1,6 @@
 #lang racket
-(provide group? group)
+(provide group)
 (require "../oop.rkt")
-
-(define (group? obj)
-    (eq? 'group (send 'type-of obj)))
 
 ;;; lst is an associated list
 ;;; '(1 (a e c))

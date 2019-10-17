@@ -1,10 +1,7 @@
 #lang racket
-(provide grouping? grouping)
+(provide grouping)
 (require "../oop.rkt")
 (require "../groups/group.rkt")
-
-(define (grouping? obj)
-    (eq? (send 'type-of obj) 'grouping))
 
 (define (grouping lst)
     (let* ([ids (remove-duplicates (map (λ (el) (car el)) lst))]

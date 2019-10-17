@@ -1,0 +1,6275 @@
+GROUPING
+Group count: 11
+Group max size: 30
+Group min size: 10
+  Group: 1
+    Id:        20207981 
+    Name:      Villads August Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20205244 
+    Name:      Lauge Eskildsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202364 
+    Name:      Sonia Marwa Ghozeil 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20204383 
+    Name:      Saga Dalgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20207600 
+    Name:      Marie Gregersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20207325 
+    Name:      Liv Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20202964 
+    Name:      Justin Fayzi 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       22 
+
+    Id:        20202883 
+    Name:      Andy Faycal 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       27 
+
+    Id:        20202521 
+    Name:      Aya Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20207648 
+    Name:      Orhan Ghina 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       29 
+
+  Group: 2
+    Id:        20203253 
+    Name:      Magne Oliver Bertelsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20207964 
+    Name:      Johanne Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20206233 
+    Name:      Laurits Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202890 
+    Name:      Marwa Ghufran 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20209262 
+    Name:      Alber Tito Fawzieh 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       22 
+
+    Id:        20206415 
+    Name:      Storm Johannesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205205 
+    Name:      Oscar Christiansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20205948 
+    Name:      Melissa Ghiyasseddine 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       20 
+
+    Id:        20204645 
+    Name:      Saga Signe Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20206031 
+    Name:      Mohamed Rohan Fayz 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       25 
+
+    Id:        20205243 
+    Name:      Armin Latoya Ghiyath 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+    Id:        20205007 
+    Name:      Johanne Liva Andreasen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209927 
+    Name:      Mathilde Liv Berthelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20207662 
+    Name:      Adam Nohr Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203370 
+    Name:      Sebastian Andersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20204493 
+    Name:      Kawa Fayzi 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       20 
+
+    Id:        20204684 
+    Name:      Villum Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205302 
+    Name:      Emma Luna Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202499 
+    Name:      Mounia Fayzee 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20203615 
+    Name:      Leticia Sona Fawziya 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       24 
+
+  Group: 3
+    Id:        20209775 
+    Name:      Adam Marius Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20206995 
+    Name:      Alex Alex Ghofran 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       24 
+
+    Id:        20205015 
+    Name:      Elliot Carlsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209808 
+    Name:      August Anton Frederiksen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20207120 
+    Name:      Selda Ghlallab 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       21 
+
+    Id:        20204546 
+    Name:      Liam Bisgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205976 
+    Name:      Aksel Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20202169 
+    Name:      Caroline Gade 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202222 
+    Name:      Sofia Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20208290 
+    Name:      Asger Emil Beck 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+  Group: 4
+    Id:        20205037 
+    Name:      Victor Christian Asmussen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202347 
+    Name:      Elias Milas Buch 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203053 
+    Name:      Laurits Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20201251 
+    Name:      Villum Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203308 
+    Name:      Alma Sarah Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203794 
+    Name:      Ellie Juul 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20201761 
+    Name:      Merle Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202752 
+    Name:      Theo Juul 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202025 
+    Name:      Olivia Emma Frost 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20208952 
+    Name:      Vigga Sofia Gregersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20207184 
+    Name:      Andrea Juul 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20208027 
+    Name:      Liam Alexander Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20209772 
+    Name:      Milas Damgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202134 
+    Name:      Viggo Storm Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20209640 
+    Name:      Nawal Ghozeil 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       20 
+
+    Id:        20202130 
+    Name:      Yanis Orhan Ghodani 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20201367 
+    Name:      Storm Danielsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20203909 
+    Name:      Saliha Ghoulam 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       25 
+
+    Id:        20203500 
+    Name:      Orhan Fayzee 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       28 
+
+    Id:        20208438 
+    Name:      Melina Ghofran 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+  Group: 5
+    Id:        20206945 
+    Name:      Maja Brandt 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20201934 
+    Name:      Karla Holst 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20204226 
+    Name:      Benjamin Alfred Hemmingsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20205183 
+    Name:      Loui Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207781 
+    Name:      Laura Carlsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20201132 
+    Name:      Johan Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20205903 
+    Name:      Saliha Fayel 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20201461 
+    Name:      Emil Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20204026 
+    Name:      Asger Buch 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20201188 
+    Name:      Aksel Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20209205 
+    Name:      Christian Johansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20206444 
+    Name:      Sabrina Gizaw 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       20 
+
+    Id:        20205197 
+    Name:      Sigurd Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203917 
+    Name:      Marie Hald 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20204951 
+    Name:      Laurits Benjamin Frandsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20207512 
+    Name:      Victor Brandt 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20202610 
+    Name:      Agnes Johnsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20209281 
+    Name:      Liva Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20201143 
+    Name:      Oliver Hermansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20208829 
+    Name:      Lauge Carstensen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20206889 
+    Name:      Andy Girmay 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       29 
+
+    Id:        20208594 
+    Name:      Storm Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209302 
+    Name:      Olivia Saga Bech 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20204988 
+    Name:      Adam Carl Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209538 
+    Name:      Noah Elliot Damgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204519 
+    Name:      Nora Esther Johansson 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205731 
+    Name:      Matthias Theo Johansson 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20203894 
+    Name:      Philip Malthe Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202083 
+    Name:      Tony Faysal 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       27 
+
+    Id:        20208481 
+    Name:      Clara Bak 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+  Group: 6
+    Id:        20202719 
+    Name:      Liva Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20201827 
+    Name:      Victor Gregersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20206855 
+    Name:      Philip Nohr Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20209746 
+    Name:      Justin Fazil 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       24 
+
+    Id:        20203360 
+    Name:      Felix Bruun 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202079 
+    Name:      Frederik Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208621 
+    Name:      Laurits Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20209654 
+    Name:      Olivia Andreassen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204472 
+    Name:      Carlos Faysal 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       22 
+
+    Id:        20208680 
+    Name:      Frederik Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202691 
+    Name:      Kevin Orhan Ghirmai 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       28 
+
+    Id:        20208341 
+    Name:      Diana Fayyaad 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       24 
+
+    Id:        20201885 
+    Name:      Esther Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202519 
+    Name:      Karla Saga Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203768 
+    Name:      Otto Victor Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203466 
+    Name:      Tony Marvin Fayz 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       29 
+
+    Id:        20205377 
+    Name:      Anton Johannsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20204045 
+    Name:      Milas Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20206655 
+    Name:      Isabella Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20204513 
+    Name:      Yana Fayad 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       28 
+
+  Group: 7
+    Id:        20209695 
+    Name:      Sona Girma 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       23 
+
+    Id:        20201454 
+    Name:      Sigurd Bjerre 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20207206 
+    Name:      Rosa Bonde 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20206618 
+    Name:      Mario Fazila 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       27 
+
+    Id:        20209810 
+    Name:      Arthur Juhl 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20208978 
+    Name:      Lily Jessen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20209478 
+    Name:      Diana Yana Gilamichael 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       22 
+
+    Id:        20208043 
+    Name:      Sebastian Dalsgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20206265 
+    Name:      Willam Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20204839 
+    Name:      Matthias Andreasen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+  Group: 8
+    Id:        20202099 
+    Name:      Carlos Ghirmai 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       29 
+
+    Id:        20207816 
+    Name:      Sofia Jepsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20202684 
+    Name:      Victor Gade 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20208160 
+    Name:      Elias Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207611 
+    Name:      Viggo Lauge Johansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20209916 
+    Name:      Milas Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20207617 
+    Name:      Malthe Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20207042 
+    Name:      Hannah Christoffersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20207858 
+    Name:      Merle Hermansen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203849 
+    Name:      Caroline Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203796 
+    Name:      Villads Jensen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20204439 
+    Name:      Loui Emil Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20205665 
+    Name:      Vigga Astrid Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20206400 
+    Name:      Malthe Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202923 
+    Name:      Sebastian Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20202041 
+    Name:      Mille Ellie Andersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20208529 
+    Name:      Asger Bech 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202324 
+    Name:      Storm Mads Jakobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20203117 
+    Name:      Nora Buch 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20203537 
+    Name:      Christian Albert Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+  Group: 9
+    Id:        20207159 
+    Name:      Ahmed Ghufran 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       29 
+
+    Id:        20202012 
+    Name:      Nohr Danielsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202835 
+    Name:      Malthe Anton Davidsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202642 
+    Name:      Nohr Frederik Friis 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20205670 
+    Name:      Hafsa Fazl 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20208618 
+    Name:      Villads Aksel Andresen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20206149 
+    Name:      Mikkel Frederik Frost 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204429 
+    Name:      Marius Bjerregaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202858 
+    Name:      Aksel Matthias Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20207635 
+    Name:      Ella Ida Damgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20205356 
+    Name:      Sigurd Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202139 
+    Name:      Mille Eva Johansson 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209601 
+    Name:      Liv Sofia Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20203546 
+    Name:      Sigurd Lauge Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20204882 
+    Name:      Adam Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20206503 
+    Name:      Villum Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203979 
+    Name:      Mads Felix Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20208660 
+    Name:      Liva Bruun 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20209936 
+    Name:      Emil Marius Andersson 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206944 
+    Name:      Malthe Bjerre 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20206342 
+    Name:      Otto Berg 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20203385 
+    Name:      Isabella Asmussen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20208457 
+    Name:      Lucas Christiansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20205173 
+    Name:      Marvin Ghulam 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       20 
+
+    Id:        20202820 
+    Name:      Naya Christensen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20201626 
+    Name:      Liva Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203676 
+    Name:      Emily Alberte Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20208887 
+    Name:      Elliot Eskildsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20206401 
+    Name:      Frida Johannesen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203810 
+    Name:      Frida Emilie Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+  Group: 10
+    Id:        20205851 
+    Name:      Christian Christian Hoffmann 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20204118 
+    Name:      Philip Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203176 
+    Name:      Lily Jespersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20208055 
+    Name:      Lea Christensen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20209671 
+    Name:      Loui Beck 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20207074 
+    Name:      Sonia Nadia Ghulam 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       21 
+
+    Id:        20207044 
+    Name:      Emily Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20208751 
+    Name:      Nohr Friis 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20205748 
+    Name:      Melissa Ghozeil 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       29 
+
+    Id:        20202526 
+    Name:      Latoya Fayza 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       27 
+
+    Id:        20209755 
+    Name:      Andrea Ellie Ibsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20201780 
+    Name:      Alma Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20205181 
+    Name:      Andrea Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202357 
+    Name:      Albert Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20208453 
+    Name:      Felix Juhl 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20204599 
+    Name:      Elias Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20206369 
+    Name:      Maja Emilie Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203679 
+    Name:      Vigga Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20208237 
+    Name:      Alfred Johan Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209888 
+    Name:      Albert Asmussen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+  Group: 11
+    Id:        20206198 
+    Name:      Oscar Gregersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20201020 
+    Name:      Elias Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203107 
+    Name:      Liva Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20209861 
+    Name:      Marius Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203059 
+    Name:      Astrid Esther Johnsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20203018 
+    Name:      Kawa Alex Fawzya 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20201654 
+    Name:      Aksel Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203847 
+    Name:      Matthias Fischer 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20204933 
+    Name:      Lauge Juul 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20209113 
+    Name:      Mads Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+GROUPING
+Group count: 5
+Group max size: 40
+Group min size: 40
+  Group: 5
+    Id:        20202130 
+    Name:      Yanis Orhan Ghodani 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20204684 
+    Name:      Villum Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20207611 
+    Name:      Viggo Lauge Johansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202684 
+    Name:      Victor Gade 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202752 
+    Name:      Theo Juul 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20207074 
+    Name:      Sonia Nadia Ghulam 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       21 
+
+    Id:        20203546 
+    Name:      Sigurd Lauge Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20202923 
+    Name:      Sebastian Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204645 
+    Name:      Saga Signe Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20203894 
+    Name:      Philip Malthe Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20205205 
+    Name:      Oscar Christiansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209654 
+    Name:      Olivia Andreassen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20202642 
+    Name:      Nohr Frederik Friis 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202499 
+    Name:      Mounia Fayzee 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20209916 
+    Name:      Milas Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20205748 
+    Name:      Melissa Ghozeil 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       29 
+
+    Id:        20204839 
+    Name:      Matthias Andreasen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204429 
+    Name:      Marius Bjerregaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20206400 
+    Name:      Malthe Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20203253 
+    Name:      Magne Oliver Bertelsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20204439 
+    Name:      Loui Emil Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209281 
+    Name:      Liva Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20203176 
+    Name:      Lily Jespersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203053 
+    Name:      Laurits Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20204933 
+    Name:      Lauge Juul 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20204493 
+    Name:      Kawa Fayzi 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       20 
+
+    Id:        20202964 
+    Name:      Justin Fayzi 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       22 
+
+    Id:        20203385 
+    Name:      Isabella Asmussen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20208680 
+    Name:      Frederik Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20205302 
+    Name:      Emma Luna Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20208887 
+    Name:      Elliot Eskildsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20201020 
+    Name:      Elias Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20208481 
+    Name:      Clara Bak 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203849 
+    Name:      Caroline Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20209808 
+    Name:      August Anton Frederiksen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20209810 
+    Name:      Arthur Juhl 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20207184 
+    Name:      Andrea Juul 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20208237 
+    Name:      Alfred Johan Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202858 
+    Name:      Aksel Matthias Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202610 
+    Name:      Agnes Johnsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+  Group: 4
+    Id:        20204513 
+    Name:      Yana Fayad 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       28 
+
+    Id:        20203796 
+    Name:      Villads Jensen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20208952 
+    Name:      Vigga Sofia Gregersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20205037 
+    Name:      Victor Christian Asmussen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202324 
+    Name:      Storm Mads Jakobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20202364 
+    Name:      Sonia Marwa Ghozeil 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20205197 
+    Name:      Sigurd Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208043 
+    Name:      Sebastian Dalsgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20204383 
+    Name:      Saga Dalgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20204118 
+    Name:      Philip Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20207648 
+    Name:      Orhan Ghina 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       29 
+
+    Id:        20201143 
+    Name:      Oliver Hermansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202012 
+    Name:      Nohr Danielsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20206031 
+    Name:      Mohamed Rohan Fayz 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       25 
+
+    Id:        20204045 
+    Name:      Milas Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20205948 
+    Name:      Melissa Ghiyasseddine 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       20 
+
+    Id:        20209927 
+    Name:      Mathilde Liv Berthelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20206618 
+    Name:      Mario Fazila 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       27 
+
+    Id:        20206944 
+    Name:      Malthe Bjerre 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203979 
+    Name:      Mads Felix Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209671 
+    Name:      Loui Beck 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203107 
+    Name:      Liva Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20204546 
+    Name:      Liam Bisgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20206233 
+    Name:      Laurits Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20205244 
+    Name:      Lauge Eskildsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203018 
+    Name:      Kawa Alex Fawzya 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20205007 
+    Name:      Johanne Liva Andreasen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20207042 
+    Name:      Hannah Christoffersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202079 
+    Name:      Frederik Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20207044 
+    Name:      Emily Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20205015 
+    Name:      Elliot Carlsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20208160 
+    Name:      Elias Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20209205 
+    Name:      Christian Johansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20202099 
+    Name:      Carlos Ghirmai 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       29 
+
+    Id:        20203059 
+    Name:      Astrid Esther Johnsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205243 
+    Name:      Armin Latoya Ghiyath 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+    Id:        20209755 
+    Name:      Andrea Ellie Ibsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20206995 
+    Name:      Alex Alex Ghofran 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       24 
+
+    Id:        20201654 
+    Name:      Aksel Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20207662 
+    Name:      Adam Nohr Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+  Group: 3
+    Id:        20206265 
+    Name:      Willam Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20207981 
+    Name:      Villads August Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203679 
+    Name:      Vigga Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207512 
+    Name:      Victor Brandt 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20206415 
+    Name:      Storm Johannesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20209695 
+    Name:      Sona Girma 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       23 
+
+    Id:        20205356 
+    Name:      Sigurd Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203370 
+    Name:      Sebastian Andersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20206444 
+    Name:      Sabrina Gizaw 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       20 
+
+    Id:        20203768 
+    Name:      Otto Victor Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203500 
+    Name:      Orhan Fayzee 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       28 
+
+    Id:        20204519 
+    Name:      Nora Esther Johansson 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20209538 
+    Name:      Noah Elliot Damgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20202139 
+    Name:      Mille Eva Johansson 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20206149 
+    Name:      Mikkel Frederik Frost 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208438 
+    Name:      Melina Ghofran 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+    Id:        20202890 
+    Name:      Marwa Ghufran 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20203917 
+    Name:      Marie Hald 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20202835 
+    Name:      Malthe Anton Davidsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20209113 
+    Name:      Mads Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20202719 
+    Name:      Liva Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20209601 
+    Name:      Liv Sofia Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20208027 
+    Name:      Liam Alexander Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208621 
+    Name:      Laurits Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208829 
+    Name:      Lauge Carstensen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202519 
+    Name:      Karla Saga Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207964 
+    Name:      Johanne Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20205670 
+    Name:      Hafsa Fazl 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20208453 
+    Name:      Felix Juhl 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20203676 
+    Name:      Emily Alberte Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20203794 
+    Name:      Ellie Juul 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20204599 
+    Name:      Elias Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20205851 
+    Name:      Christian Christian Hoffmann 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20204472 
+    Name:      Carlos Faysal 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       22 
+
+    Id:        20208290 
+    Name:      Asger Emil Beck 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20205377 
+    Name:      Anton Johannsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20205181 
+    Name:      Andrea Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202357 
+    Name:      Albert Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20201188 
+    Name:      Aksel Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20209775 
+    Name:      Adam Marius Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+  Group: 2
+    Id:        20206503 
+    Name:      Villum Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208618 
+    Name:      Villads Aksel Andresen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20205665 
+    Name:      Vigga Astrid Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203466 
+    Name:      Tony Marvin Fayz 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       29 
+
+    Id:        20201367 
+    Name:      Storm Danielsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20207816 
+    Name:      Sofia Jepsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20201454 
+    Name:      Sigurd Bjerre 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20203909 
+    Name:      Saliha Ghoulam 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       25 
+
+    Id:        20207206 
+    Name:      Rosa Bonde 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20206342 
+    Name:      Otto Berg 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20209302 
+    Name:      Olivia Saga Bech 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20203117 
+    Name:      Nora Buch 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202820 
+    Name:      Naya Christensen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202041 
+    Name:      Mille Ellie Andersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20201761 
+    Name:      Merle Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205731 
+    Name:      Matthias Theo Johansson 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20205173 
+    Name:      Marvin Ghulam 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       20 
+
+    Id:        20207600 
+    Name:      Marie Gregersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20206369 
+    Name:      Maja Emilie Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208457 
+    Name:      Lucas Christiansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20201626 
+    Name:      Liva Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20207325 
+    Name:      Liv Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203615 
+    Name:      Leticia Sona Fawziya 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       24 
+
+    Id:        20204951 
+    Name:      Laurits Benjamin Frandsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202526 
+    Name:      Latoya Fayza 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       27 
+
+    Id:        20201934 
+    Name:      Karla Holst 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20201132 
+    Name:      Johan Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20206401 
+    Name:      Frida Johannesen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203360 
+    Name:      Felix Bruun 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209936 
+    Name:      Emil Marius Andersson 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20207635 
+    Name:      Ella Ida Damgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20209478 
+    Name:      Diana Yana Gilamichael 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       22 
+
+    Id:        20203537 
+    Name:      Christian Albert Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20204226 
+    Name:      Benjamin Alfred Hemmingsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20204026 
+    Name:      Asger Buch 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20206889 
+    Name:      Andy Girmay 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       29 
+
+    Id:        20203308 
+    Name:      Alma Sarah Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20209888 
+    Name:      Albert Asmussen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20205976 
+    Name:      Aksel Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20204882 
+    Name:      Adam Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+  Group: 1
+    Id:        20201251 
+    Name:      Villum Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202134 
+    Name:      Viggo Storm Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20201827 
+    Name:      Victor Gregersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202083 
+    Name:      Tony Faysal 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       27 
+
+    Id:        20208594 
+    Name:      Storm Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202222 
+    Name:      Sofia Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20207120 
+    Name:      Selda Ghlallab 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       21 
+
+    Id:        20205903 
+    Name:      Saliha Fayel 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20206855 
+    Name:      Philip Nohr Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206198 
+    Name:      Oscar Gregersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202025 
+    Name:      Olivia Emma Frost 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20208751 
+    Name:      Nohr Friis 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20209640 
+    Name:      Nawal Ghozeil 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       20 
+
+    Id:        20209772 
+    Name:      Milas Damgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20207858 
+    Name:      Merle Hermansen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203847 
+    Name:      Matthias Fischer 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20209861 
+    Name:      Marius Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20207617 
+    Name:      Malthe Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20206945 
+    Name:      Maja Brandt 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20205183 
+    Name:      Loui Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20208660 
+    Name:      Liva Bruun 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208978 
+    Name:      Lily Jessen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20208055 
+    Name:      Lea Christensen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20207781 
+    Name:      Laura Carlsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20202691 
+    Name:      Kevin Orhan Ghirmai 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       28 
+
+    Id:        20209746 
+    Name:      Justin Fazil 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       24 
+
+    Id:        20206655 
+    Name:      Isabella Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20203810 
+    Name:      Frida Emilie Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20201885 
+    Name:      Esther Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20201461 
+    Name:      Emil Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202347 
+    Name:      Elias Milas Buch 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208341 
+    Name:      Diana Fayyaad 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       24 
+
+    Id:        20202169 
+    Name:      Caroline Gade 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202521 
+    Name:      Aya Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208529 
+    Name:      Asger Bech 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202883 
+    Name:      Andy Faycal 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       27 
+
+    Id:        20201780 
+    Name:      Alma Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20209262 
+    Name:      Alber Tito Fawzieh 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       22 
+
+    Id:        20207159 
+    Name:      Ahmed Ghufran 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       29 
+
+    Id:        20204988 
+    Name:      Adam Carl Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+GROUPING
+Group count: 5
+Group max size: 40
+Group min size: 40
+  Group: 5
+    Id:        20206031 
+    Name:      Mohamed Rohan Fayz 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       25 
+
+    Id:        20202130 
+    Name:      Yanis Orhan Ghodani 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20203466 
+    Name:      Tony Marvin Fayz 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       29 
+
+    Id:        20207648 
+    Name:      Orhan Ghina 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       29 
+
+    Id:        20206265 
+    Name:      Willam Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20207981 
+    Name:      Villads August Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202684 
+    Name:      Victor Gade 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20206415 
+    Name:      Storm Johannesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205356 
+    Name:      Sigurd Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20206855 
+    Name:      Philip Nohr Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206198 
+    Name:      Oscar Gregersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202012 
+    Name:      Nohr Danielsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20206149 
+    Name:      Mikkel Frederik Frost 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204429 
+    Name:      Marius Bjerregaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20203253 
+    Name:      Magne Oliver Bertelsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20204439 
+    Name:      Loui Emil Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20206233 
+    Name:      Laurits Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20208829 
+    Name:      Lauge Carstensen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203360 
+    Name:      Felix Bruun 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202347 
+    Name:      Elias Milas Buch 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20205851 
+    Name:      Christian Christian Hoffmann 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20204026 
+    Name:      Asger Buch 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202357 
+    Name:      Albert Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205976 
+    Name:      Aksel Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20207074 
+    Name:      Sonia Nadia Ghulam 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       21 
+
+    Id:        20202890 
+    Name:      Marwa Ghufran 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20205748 
+    Name:      Melissa Ghozeil 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       29 
+
+    Id:        20202364 
+    Name:      Sonia Marwa Ghozeil 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20208952 
+    Name:      Vigga Sofia Gregersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20204645 
+    Name:      Saga Signe Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20209654 
+    Name:      Olivia Andreassen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20202041 
+    Name:      Mille Ellie Andersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20207600 
+    Name:      Marie Gregersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20208660 
+    Name:      Liva Bruun 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208978 
+    Name:      Lily Jessen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20201934 
+    Name:      Karla Holst 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20207042 
+    Name:      Hannah Christoffersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20207044 
+    Name:      Emily Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202169 
+    Name:      Caroline Gade 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20209755 
+    Name:      Andrea Ellie Ibsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+  Group: 4
+    Id:        20205173 
+    Name:      Marvin Ghulam 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       20 
+
+    Id:        20202083 
+    Name:      Tony Faysal 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       27 
+
+    Id:        20202691 
+    Name:      Kevin Orhan Ghirmai 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       28 
+
+    Id:        20206618 
+    Name:      Mario Fazila 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       27 
+
+    Id:        20206503 
+    Name:      Villum Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208618 
+    Name:      Villads Aksel Andresen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20205037 
+    Name:      Victor Christian Asmussen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20201367 
+    Name:      Storm Danielsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20201454 
+    Name:      Sigurd Bjerre 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20203894 
+    Name:      Philip Malthe Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20205205 
+    Name:      Oscar Christiansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209538 
+    Name:      Noah Elliot Damgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20205731 
+    Name:      Matthias Theo Johansson 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20207617 
+    Name:      Malthe Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203979 
+    Name:      Mads Felix Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209671 
+    Name:      Loui Beck 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20208621 
+    Name:      Laurits Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20201132 
+    Name:      Johan Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20209936 
+    Name:      Emil Marius Andersson 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20201020 
+    Name:      Elias Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203537 
+    Name:      Christian Albert Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20208529 
+    Name:      Asger Bech 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209888 
+    Name:      Albert Asmussen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207662 
+    Name:      Adam Nohr Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209695 
+    Name:      Sona Girma 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       23 
+
+    Id:        20203615 
+    Name:      Leticia Sona Fawziya 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       24 
+
+    Id:        20208438 
+    Name:      Melina Ghofran 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+    Id:        20205903 
+    Name:      Saliha Fayel 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20203679 
+    Name:      Vigga Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20204383 
+    Name:      Saga Dalgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20204519 
+    Name:      Nora Esther Johansson 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20201761 
+    Name:      Merle Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20206369 
+    Name:      Maja Emilie Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20209281 
+    Name:      Liva Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20203176 
+    Name:      Lily Jespersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20205007 
+    Name:      Johanne Liva Andreasen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20206401 
+    Name:      Frida Johannesen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203676 
+    Name:      Emily Alberte Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20203849 
+    Name:      Caroline Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20205181 
+    Name:      Andrea Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+  Group: 3
+    Id:        20206889 
+    Name:      Andy Girmay 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       29 
+
+    Id:        20203500 
+    Name:      Orhan Fayzee 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       28 
+
+    Id:        20204472 
+    Name:      Carlos Faysal 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       22 
+
+    Id:        20203018 
+    Name:      Kawa Alex Fawzya 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20201251 
+    Name:      Villum Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202134 
+    Name:      Viggo Storm Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20207512 
+    Name:      Victor Brandt 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20208594 
+    Name:      Storm Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202923 
+    Name:      Sebastian Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204118 
+    Name:      Philip Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20201143 
+    Name:      Oliver Hermansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20209772 
+    Name:      Milas Damgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203847 
+    Name:      Matthias Fischer 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20206400 
+    Name:      Malthe Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20209113 
+    Name:      Mads Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204546 
+    Name:      Liam Bisgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20204951 
+    Name:      Laurits Benjamin Frandsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20208680 
+    Name:      Frederik Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20201461 
+    Name:      Emil Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20208160 
+    Name:      Elias Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20204226 
+    Name:      Benjamin Alfred Hemmingsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209810 
+    Name:      Arthur Juhl 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202858 
+    Name:      Aksel Matthias Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20209775 
+    Name:      Adam Marius Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203909 
+    Name:      Saliha Ghoulam 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       25 
+
+    Id:        20205670 
+    Name:      Hafsa Fazl 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20202526 
+    Name:      Latoya Fayza 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       27 
+
+    Id:        20209640 
+    Name:      Nawal Ghozeil 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       20 
+
+    Id:        20205665 
+    Name:      Vigga Astrid Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207206 
+    Name:      Rosa Bonde 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20203117 
+    Name:      Nora Buch 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20207858 
+    Name:      Merle Hermansen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20206945 
+    Name:      Maja Brandt 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203107 
+    Name:      Liva Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20208055 
+    Name:      Lea Christensen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20207964 
+    Name:      Johanne Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203810 
+    Name:      Frida Emilie Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203794 
+    Name:      Ellie Juul 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20202521 
+    Name:      Aya Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203308 
+    Name:      Alma Sarah Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+  Group: 2
+    Id:        20209262 
+    Name:      Alber Tito Fawzieh 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       22 
+
+    Id:        20204493 
+    Name:      Kawa Fayzi 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       20 
+
+    Id:        20202883 
+    Name:      Andy Faycal 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       27 
+
+    Id:        20209746 
+    Name:      Justin Fazil 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       24 
+
+    Id:        20204684 
+    Name:      Villum Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20207611 
+    Name:      Viggo Lauge Johansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202752 
+    Name:      Theo Juul 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20203546 
+    Name:      Sigurd Lauge Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20208043 
+    Name:      Sebastian Dalsgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20203768 
+    Name:      Otto Victor Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208751 
+    Name:      Nohr Friis 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20209916 
+    Name:      Milas Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20204839 
+    Name:      Matthias Andreasen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206944 
+    Name:      Malthe Bjerre 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20208457 
+    Name:      Lucas Christiansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20208027 
+    Name:      Liam Alexander Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204933 
+    Name:      Lauge Juul 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20202079 
+    Name:      Frederik Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208887 
+    Name:      Elliot Eskildsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20204599 
+    Name:      Elias Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20209808 
+    Name:      August Anton Frederiksen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20205377 
+    Name:      Anton Johannsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20201654 
+    Name:      Aksel Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20204882 
+    Name:      Adam Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20207120 
+    Name:      Selda Ghlallab 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       21 
+
+    Id:        20204513 
+    Name:      Yana Fayad 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       28 
+
+    Id:        20208341 
+    Name:      Diana Fayyaad 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       24 
+
+    Id:        20202499 
+    Name:      Mounia Fayzee 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20207816 
+    Name:      Sofia Jepsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20209302 
+    Name:      Olivia Saga Bech 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20202820 
+    Name:      Naya Christensen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20209927 
+    Name:      Mathilde Liv Berthelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202719 
+    Name:      Liva Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20209601 
+    Name:      Liv Sofia Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20207781 
+    Name:      Laura Carlsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20206655 
+    Name:      Isabella Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20201885 
+    Name:      Esther Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20207635 
+    Name:      Ella Ida Damgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203059 
+    Name:      Astrid Esther Johnsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20201780 
+    Name:      Alma Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+  Group: 1
+    Id:        20207159 
+    Name:      Ahmed Ghufran 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       29 
+
+    Id:        20202964 
+    Name:      Justin Fayzi 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       22 
+
+    Id:        20206995 
+    Name:      Alex Alex Ghofran 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       24 
+
+    Id:        20202099 
+    Name:      Carlos Ghirmai 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       29 
+
+    Id:        20203796 
+    Name:      Villads Jensen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20201827 
+    Name:      Victor Gregersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202324 
+    Name:      Storm Mads Jakobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20205197 
+    Name:      Sigurd Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203370 
+    Name:      Sebastian Andersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20206342 
+    Name:      Otto Berg 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202642 
+    Name:      Nohr Frederik Friis 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20204045 
+    Name:      Milas Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20209861 
+    Name:      Marius Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20202835 
+    Name:      Malthe Anton Davidsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205183 
+    Name:      Loui Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203053 
+    Name:      Laurits Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20205244 
+    Name:      Lauge Eskildsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20208453 
+    Name:      Felix Juhl 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20205015 
+    Name:      Elliot Carlsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209205 
+    Name:      Christian Johansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20208290 
+    Name:      Asger Emil Beck 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20208237 
+    Name:      Alfred Johan Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20201188 
+    Name:      Aksel Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20204988 
+    Name:      Adam Carl Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20205948 
+    Name:      Melissa Ghiyasseddine 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       20 
+
+    Id:        20206444 
+    Name:      Sabrina Gizaw 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       20 
+
+    Id:        20205243 
+    Name:      Armin Latoya Ghiyath 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+    Id:        20209478 
+    Name:      Diana Yana Gilamichael 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       22 
+
+    Id:        20202222 
+    Name:      Sofia Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20202025 
+    Name:      Olivia Emma Frost 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202139 
+    Name:      Mille Eva Johansson 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20203917 
+    Name:      Marie Hald 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20201626 
+    Name:      Liva Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20207325 
+    Name:      Liv Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20202519 
+    Name:      Karla Saga Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203385 
+    Name:      Isabella Asmussen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20205302 
+    Name:      Emma Luna Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20208481 
+    Name:      Clara Bak 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207184 
+    Name:      Andrea Juul 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202610 
+    Name:      Agnes Johnsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+GROUPING
+Group count: 6
+Group max size: 5
+Group min size: 5
+  Group: 17
+    Id:        20207600 
+    Name:      Marie Gregersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20207206 
+    Name:      Rosa Bonde 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20201761 
+    Name:      Merle Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202519 
+    Name:      Karla Saga Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20209281 
+    Name:      Liva Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+  Group: 18
+    Id:        20207044 
+    Name:      Emily Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202890 
+    Name:      Marwa Ghufran 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20203615 
+    Name:      Leticia Sona Fawziya 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       24 
+
+    Id:        20207325 
+    Name:      Liv Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20209601 
+    Name:      Liv Sofia Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+  Group: 19
+    Id:        20203107 
+    Name:      Liva Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207858 
+    Name:      Merle Hermansen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20208978 
+    Name:      Lily Jessen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20205243 
+    Name:      Armin Latoya Ghiyath 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+    Id:        20205748 
+    Name:      Melissa Ghozeil 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       29 
+
+  Group: 20
+    Id:        20203810 
+    Name:      Frida Emilie Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20206945 
+    Name:      Maja Brandt 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202526 
+    Name:      Latoya Fayza 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       27 
+
+    Id:        20209654 
+    Name:      Olivia Andreassen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203676 
+    Name:      Emily Alberte Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+  Group: 21
+    Id:        20205302 
+    Name:      Emma Luna Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20201626 
+    Name:      Liva Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20209302 
+    Name:      Olivia Saga Bech 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20204645 
+    Name:      Saga Signe Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20207964 
+    Name:      Johanne Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+  Group: 22
+    Id:        20203308 
+    Name:      Alma Sarah Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203176 
+    Name:      Lily Jespersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202364 
+    Name:      Sonia Marwa Ghozeil 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20208438 
+    Name:      Melina Ghofran 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+    Id:        20202521 
+    Name:      Aya Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+GROUPING
+Group count: 22
+Group max size: 30
+Group min size: 5
+  Group: 1
+    Id:        20207964 
+    Name:      Johanne Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20204839 
+    Name:      Matthias Andreasen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20205183 
+    Name:      Loui Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20202519 
+    Name:      Karla Saga Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20209262 
+    Name:      Alber Tito Fawzieh 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       22 
+
+    Id:        20206031 
+    Name:      Mohamed Rohan Fayz 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       25 
+
+    Id:        20206198 
+    Name:      Oscar Gregersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205173 
+    Name:      Marvin Ghulam 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       20 
+
+    Id:        20203370 
+    Name:      Sebastian Andersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20208043 
+    Name:      Sebastian Dalsgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20204645 
+    Name:      Saga Signe Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20204988 
+    Name:      Adam Carl Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203385 
+    Name:      Isabella Asmussen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20205356 
+    Name:      Sigurd Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20206400 
+    Name:      Malthe Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+  Group: 2
+    Id:        20203107 
+    Name:      Liva Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20204882 
+    Name:      Adam Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20204045 
+    Name:      Milas Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20205748 
+    Name:      Melissa Ghozeil 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       29 
+
+    Id:        20207617 
+    Name:      Malthe Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20207042 
+    Name:      Hannah Christoffersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20207816 
+    Name:      Sofia Jepsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20203117 
+    Name:      Nora Buch 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202521 
+    Name:      Aya Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206995 
+    Name:      Alex Alex Ghofran 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       24 
+
+    Id:        20205948 
+    Name:      Melissa Ghiyasseddine 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       20 
+
+    Id:        20209772 
+    Name:      Milas Damgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20201654 
+    Name:      Aksel Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20208621 
+    Name:      Laurits Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20207159 
+    Name:      Ahmed Ghufran 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       29 
+
+    Id:        20202883 
+    Name:      Andy Faycal 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       27 
+
+    Id:        20206444 
+    Name:      Sabrina Gizaw 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       20 
+
+    Id:        20204226 
+    Name:      Benjamin Alfred Hemmingsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20204472 
+    Name:      Carlos Faysal 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       22 
+
+    Id:        20203360 
+    Name:      Felix Bruun 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+  Group: 3
+    Id:        20206415 
+    Name:      Storm Johannesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20208438 
+    Name:      Melina Ghofran 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+    Id:        20201020 
+    Name:      Elias Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203794 
+    Name:      Ellie Juul 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20205731 
+    Name:      Matthias Theo Johansson 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20204493 
+    Name:      Kawa Fayzi 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       20 
+
+    Id:        20203979 
+    Name:      Mads Felix Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20208952 
+    Name:      Vigga Sofia Gregersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202169 
+    Name:      Caroline Gade 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20201626 
+    Name:      Liva Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+  Group: 4
+    Id:        20204599 
+    Name:      Elias Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202526 
+    Name:      Latoya Fayza 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       27 
+
+    Id:        20205197 
+    Name:      Sigurd Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20209775 
+    Name:      Adam Marius Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20201251 
+    Name:      Villum Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20207648 
+    Name:      Orhan Ghina 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       29 
+
+    Id:        20205205 
+    Name:      Oscar Christiansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202820 
+    Name:      Naya Christensen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20206401 
+    Name:      Frida Johannesen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20206369 
+    Name:      Maja Emilie Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208680 
+    Name:      Frederik Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20201761 
+    Name:      Merle Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20204026 
+    Name:      Asger Buch 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20208055 
+    Name:      Lea Christensen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203615 
+    Name:      Leticia Sona Fawziya 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       24 
+
+    Id:        20208453 
+    Name:      Felix Juhl 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209601 
+    Name:      Liv Sofia Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202835 
+    Name:      Malthe Anton Davidsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20209916 
+    Name:      Milas Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20209205 
+    Name:      Christian Johansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+  Group: 5
+    Id:        20209538 
+    Name:      Noah Elliot Damgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20209671 
+    Name:      Loui Beck 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20201454 
+    Name:      Sigurd Bjerre 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20205903 
+    Name:      Saliha Fayel 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20208160 
+    Name:      Elias Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20202923 
+    Name:      Sebastian Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208027 
+    Name:      Liam Alexander Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20201188 
+    Name:      Aksel Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20207206 
+    Name:      Rosa Bonde 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20205007 
+    Name:      Johanne Liva Andreasen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202222 
+    Name:      Sofia Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20206503 
+    Name:      Villum Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20201461 
+    Name:      Emil Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202012 
+    Name:      Nohr Danielsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20208529 
+    Name:      Asger Bech 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20206149 
+    Name:      Mikkel Frederik Frost 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20209861 
+    Name:      Marius Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206889 
+    Name:      Andy Girmay 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       29 
+
+    Id:        20205037 
+    Name:      Victor Christian Asmussen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20204383 
+    Name:      Saga Dalgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20204439 
+    Name:      Loui Emil Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20205243 
+    Name:      Armin Latoya Ghiyath 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+    Id:        20203059 
+    Name:      Astrid Esther Johnsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20206618 
+    Name:      Mario Fazila 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       27 
+
+    Id:        20202041 
+    Name:      Mille Ellie Andersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20206945 
+    Name:      Maja Brandt 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20205244 
+    Name:      Lauge Eskildsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20204118 
+    Name:      Philip Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202364 
+    Name:      Sonia Marwa Ghozeil 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20208618 
+    Name:      Villads Aksel Andresen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+  Group: 6
+    Id:        20204429 
+    Name:      Marius Bjerregaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202083 
+    Name:      Tony Faysal 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       27 
+
+    Id:        20203849 
+    Name:      Caroline Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20209302 
+    Name:      Olivia Saga Bech 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20209654 
+    Name:      Olivia Andreassen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206265 
+    Name:      Willam Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20205976 
+    Name:      Aksel Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20203308 
+    Name:      Alma Sarah Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202684 
+    Name:      Victor Gade 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20205670 
+    Name:      Hafsa Fazl 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20201934 
+    Name:      Karla Holst 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203500 
+    Name:      Orhan Fayzee 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       28 
+
+    Id:        20203676 
+    Name:      Emily Alberte Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20208341 
+    Name:      Diana Fayyaad 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       24 
+
+    Id:        20203253 
+    Name:      Magne Oliver Bertelsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202099 
+    Name:      Carlos Ghirmai 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       29 
+
+    Id:        20209478 
+    Name:      Diana Yana Gilamichael 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       22 
+
+    Id:        20202130 
+    Name:      Yanis Orhan Ghodani 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20205665 
+    Name:      Vigga Astrid Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207512 
+    Name:      Victor Brandt 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+  Group: 7
+    Id:        20202499 
+    Name:      Mounia Fayzee 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20206944 
+    Name:      Malthe Bjerre 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20208457 
+    Name:      Lucas Christiansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20204684 
+    Name:      Villum Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20203546 
+    Name:      Sigurd Lauge Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203018 
+    Name:      Kawa Alex Fawzya 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20202858 
+    Name:      Aksel Matthias Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20207600 
+    Name:      Marie Gregersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20201885 
+    Name:      Esther Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20201780 
+    Name:      Alma Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+  Group: 8
+    Id:        20204513 
+    Name:      Yana Fayad 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       28 
+
+    Id:        20207662 
+    Name:      Adam Nohr Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209927 
+    Name:      Mathilde Liv Berthelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20201827 
+    Name:      Victor Gregersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20209808 
+    Name:      August Anton Frederiksen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+  Group: 9
+    Id:        20202139 
+    Name:      Mille Eva Johansson 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209755 
+    Name:      Andrea Ellie Ibsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203466 
+    Name:      Tony Marvin Fayz 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       29 
+
+    Id:        20209936 
+    Name:      Emil Marius Andersson 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206855 
+    Name:      Philip Nohr Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+  Group: 10
+    Id:        20209640 
+    Name:      Nawal Ghozeil 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       20 
+
+    Id:        20205377 
+    Name:      Anton Johannsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202890 
+    Name:      Marwa Ghufran 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20207858 
+    Name:      Merle Hermansen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20206233 
+    Name:      Laurits Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+  Group: 11
+    Id:        20209810 
+    Name:      Arthur Juhl 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203768 
+    Name:      Otto Victor Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208887 
+    Name:      Elliot Eskildsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20203053 
+    Name:      Laurits Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20205851 
+    Name:      Christian Christian Hoffmann 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+  Group: 12
+    Id:        20203810 
+    Name:      Frida Emilie Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20207981 
+    Name:      Villads August Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20202691 
+    Name:      Kevin Orhan Ghirmai 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       28 
+
+    Id:        20202347 
+    Name:      Elias Milas Buch 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206342 
+    Name:      Otto Berg 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+  Group: 13
+    Id:        20201132 
+    Name:      Johan Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207184 
+    Name:      Andrea Juul 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202642 
+    Name:      Nohr Frederik Friis 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209888 
+    Name:      Albert Asmussen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20206655 
+    Name:      Isabella Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+  Group: 14
+    Id:        20202610 
+    Name:      Agnes Johnsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20208481 
+    Name:      Clara Bak 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207325 
+    Name:      Liv Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20209746 
+    Name:      Justin Fazil 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       24 
+
+    Id:        20209695 
+    Name:      Sona Girma 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       23 
+
+  Group: 15
+    Id:        20202324 
+    Name:      Storm Mads Jakobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20202079 
+    Name:      Frederik Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20205015 
+    Name:      Elliot Carlsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202719 
+    Name:      Liva Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20208751 
+    Name:      Nohr Friis 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+  Group: 16
+    Id:        20202134 
+    Name:      Viggo Storm Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20203176 
+    Name:      Lily Jespersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20204546 
+    Name:      Liam Bisgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20207781 
+    Name:      Laura Carlsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20202357 
+    Name:      Albert Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+  Group: 17
+    Id:        20205181 
+    Name:      Andrea Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20207635 
+    Name:      Ella Ida Damgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20207120 
+    Name:      Selda Ghlallab 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       21 
+
+    Id:        20204519 
+    Name:      Nora Esther Johansson 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20203796 
+    Name:      Villads Jensen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+  Group: 18
+    Id:        20202752 
+    Name:      Theo Juul 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20204951 
+    Name:      Laurits Benjamin Frandsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20208594 
+    Name:      Storm Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20207044 
+    Name:      Emily Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202964 
+    Name:      Justin Fayzi 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       22 
+
+  Group: 19
+    Id:        20205302 
+    Name:      Emma Luna Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202025 
+    Name:      Olivia Emma Frost 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20204933 
+    Name:      Lauge Juul 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203679 
+    Name:      Vigga Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203894 
+    Name:      Philip Malthe Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+  Group: 20
+    Id:        20209113 
+    Name:      Mads Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20201367 
+    Name:      Storm Danielsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20203917 
+    Name:      Marie Hald 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20203537 
+    Name:      Christian Albert Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209281 
+    Name:      Liva Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+  Group: 21
+    Id:        20207611 
+    Name:      Viggo Lauge Johansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20208237 
+    Name:      Alfred Johan Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20208829 
+    Name:      Lauge Carstensen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20201143 
+    Name:      Oliver Hermansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20208978 
+    Name:      Lily Jessen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+  Group: 22
+    Id:        20208290 
+    Name:      Asger Emil Beck 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203847 
+    Name:      Matthias Fischer 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20207074 
+    Name:      Sonia Nadia Ghulam 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       21 
+
+    Id:        20208660 
+    Name:      Liva Bruun 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203909 
+    Name:      Saliha Ghoulam 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       25 
+
+GROUPING
+Group count: 22
+Group max size: 30
+Group min size: 5
+  Group: 1
+    Id:        20202324 
+    Name:      Storm Mads Jakobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20205244 
+    Name:      Lauge Eskildsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203979 
+    Name:      Mads Felix Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209888 
+    Name:      Albert Asmussen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20202752 
+    Name:      Theo Juul 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20201251 
+    Name:      Villum Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20209654 
+    Name:      Olivia Andreassen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20202169 
+    Name:      Caroline Gade 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203917 
+    Name:      Marie Hald 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20202079 
+    Name:      Frederik Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20207074 
+    Name:      Sonia Nadia Ghulam 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       21 
+
+    Id:        20203676 
+    Name:      Emily Alberte Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20209302 
+    Name:      Olivia Saga Bech 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20204933 
+    Name:      Lauge Juul 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203308 
+    Name:      Alma Sarah Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+  Group: 2
+    Id:        20202012 
+    Name:      Nohr Danielsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20204839 
+    Name:      Matthias Andreasen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204599 
+    Name:      Elias Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20201654 
+    Name:      Aksel Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20204226 
+    Name:      Benjamin Alfred Hemmingsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20204383 
+    Name:      Saga Dalgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20207206 
+    Name:      Rosa Bonde 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20205037 
+    Name:      Victor Christian Asmussen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20208341 
+    Name:      Diana Fayyaad 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       24 
+
+    Id:        20207611 
+    Name:      Viggo Lauge Johansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20203360 
+    Name:      Felix Bruun 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20208055 
+    Name:      Lea Christensen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208160 
+    Name:      Elias Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20206889 
+    Name:      Andy Girmay 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       29 
+
+    Id:        20208952 
+    Name:      Vigga Sofia Gregersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20204513 
+    Name:      Yana Fayad 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       28 
+
+    Id:        20202099 
+    Name:      Carlos Ghirmai 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       29 
+
+    Id:        20201827 
+    Name:      Victor Gregersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20203768 
+    Name:      Otto Victor Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20203053 
+    Name:      Laurits Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+  Group: 3
+    Id:        20205243 
+    Name:      Armin Latoya Ghiyath 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+    Id:        20209640 
+    Name:      Nawal Ghozeil 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       20 
+
+    Id:        20202347 
+    Name:      Elias Milas Buch 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206503 
+    Name:      Villum Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20208453 
+    Name:      Felix Juhl 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20206401 
+    Name:      Frida Johannesen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20209775 
+    Name:      Adam Marius Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202858 
+    Name:      Aksel Matthias Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20203537 
+    Name:      Christian Albert Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20206198 
+    Name:      Oscar Gregersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+  Group: 4
+    Id:        20207184 
+    Name:      Andrea Juul 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203018 
+    Name:      Kawa Alex Fawzya 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20207512 
+    Name:      Victor Brandt 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20201761 
+    Name:      Merle Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20204951 
+    Name:      Laurits Benjamin Frandsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20209281 
+    Name:      Liva Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20203253 
+    Name:      Magne Oliver Bertelsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20205181 
+    Name:      Andrea Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202041 
+    Name:      Mille Ellie Andersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20206655 
+    Name:      Isabella Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20209478 
+    Name:      Diana Yana Gilamichael 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       22 
+
+    Id:        20204645 
+    Name:      Saga Signe Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202820 
+    Name:      Naya Christensen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20207600 
+    Name:      Marie Gregersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209538 
+    Name:      Noah Elliot Damgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204118 
+    Name:      Philip Holst 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20205015 
+    Name:      Elliot Carlsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20208594 
+    Name:      Storm Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20209695 
+    Name:      Sona Girma 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       23 
+
+    Id:        20206031 
+    Name:      Mohamed Rohan Fayz 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       25 
+
+  Group: 5
+    Id:        20204519 
+    Name:      Nora Esther Johansson 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20208481 
+    Name:      Clara Bak 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20206400 
+    Name:      Malthe Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20203176 
+    Name:      Lily Jespersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20203615 
+    Name:      Leticia Sona Fawziya 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       24 
+
+    Id:        20203107 
+    Name:      Liva Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20201367 
+    Name:      Storm Danielsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20207617 
+    Name:      Malthe Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202642 
+    Name:      Nohr Frederik Friis 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202526 
+    Name:      Latoya Fayza 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       27 
+
+    Id:        20209808 
+    Name:      August Anton Frederiksen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20208621 
+    Name:      Laurits Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20204045 
+    Name:      Milas Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20209262 
+    Name:      Alber Tito Fawzieh 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       22 
+
+    Id:        20201132 
+    Name:      Johan Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20205183 
+    Name:      Loui Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20202890 
+    Name:      Marwa Ghufran 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20201626 
+    Name:      Liva Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20208751 
+    Name:      Nohr Friis 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20204472 
+    Name:      Carlos Faysal 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       22 
+
+    Id:        20208237 
+    Name:      Alfred Johan Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20205173 
+    Name:      Marvin Ghulam 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       20 
+
+    Id:        20202083 
+    Name:      Tony Faysal 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       27 
+
+    Id:        20205851 
+    Name:      Christian Christian Hoffmann 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203546 
+    Name:      Sigurd Lauge Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20203500 
+    Name:      Orhan Fayzee 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       28 
+
+    Id:        20202139 
+    Name:      Mille Eva Johansson 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20201454 
+    Name:      Sigurd Bjerre 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20203796 
+    Name:      Villads Jensen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20205665 
+    Name:      Vigga Astrid Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+  Group: 6
+    Id:        20202883 
+    Name:      Andy Faycal 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       27 
+
+    Id:        20204882 
+    Name:      Adam Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20204493 
+    Name:      Kawa Fayzi 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       20 
+
+    Id:        20201934 
+    Name:      Karla Holst 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209936 
+    Name:      Emil Marius Andersson 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206265 
+    Name:      Willam Justesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203059 
+    Name:      Astrid Esther Johnsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205205 
+    Name:      Oscar Christiansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203117 
+    Name:      Nora Buch 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205356 
+    Name:      Sigurd Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20202521 
+    Name:      Aya Dalsgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20202357 
+    Name:      Albert Jepsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202923 
+    Name:      Sebastian Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20201143 
+    Name:      Oliver Hermansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202025 
+    Name:      Olivia Emma Frost 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20201780 
+    Name:      Alma Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20206945 
+    Name:      Maja Brandt 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20205748 
+    Name:      Melissa Ghozeil 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       29 
+
+    Id:        20203466 
+    Name:      Tony Marvin Fayz 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       29 
+
+    Id:        20206944 
+    Name:      Malthe Bjerre 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+  Group: 7
+    Id:        20208978 
+    Name:      Lily Jessen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20205903 
+    Name:      Saliha Fayel 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20204026 
+    Name:      Asger Buch 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20202835 
+    Name:      Malthe Anton Davidsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202130 
+    Name:      Yanis Orhan Ghodani 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20205197 
+    Name:      Sigurd Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20201461 
+    Name:      Emil Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20204439 
+    Name:      Loui Emil Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20206233 
+    Name:      Laurits Jacobsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20208457 
+    Name:      Lucas Christiansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+  Group: 8
+    Id:        20209927 
+    Name:      Mathilde Liv Berthelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20207159 
+    Name:      Ahmed Ghufran 
+    Sex:       male 
+    Ethnicity: Syrian 
+    Age:       29 
+
+    Id:        20209810 
+    Name:      Arthur Juhl 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20208680 
+    Name:      Frederik Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20206855 
+    Name:      Philip Nohr Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+  Group: 9
+    Id:        20209113 
+    Name:      Mads Clausen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20207858 
+    Name:      Merle Hermansen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20204546 
+    Name:      Liam Bisgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20209746 
+    Name:      Justin Fazil 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       24 
+
+    Id:        20202222 
+    Name:      Sofia Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+  Group: 10
+    Id:        20207120 
+    Name:      Selda Ghlallab 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       21 
+
+    Id:        20209205 
+    Name:      Christian Johansen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20207816 
+    Name:      Sofia Jepsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20203370 
+    Name:      Sebastian Andersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20209861 
+    Name:      Marius Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+  Group: 11
+    Id:        20204684 
+    Name:      Villum Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202519 
+    Name:      Karla Saga Bertelsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20205948 
+    Name:      Melissa Ghiyasseddine 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       20 
+
+    Id:        20202610 
+    Name:      Agnes Johnsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20202134 
+    Name:      Viggo Storm Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+  Group: 12
+    Id:        20207781 
+    Name:      Laura Carlsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20208887 
+    Name:      Elliot Eskildsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20207325 
+    Name:      Liv Bundgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20207662 
+    Name:      Adam Nohr Brodersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20208618 
+    Name:      Villads Aksel Andresen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+  Group: 13
+    Id:        20204429 
+    Name:      Marius Bjerregaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20205670 
+    Name:      Hafsa Fazl 
+    Sex:       female 
+    Ethnicity: Palestinian 
+    Age:       25 
+
+    Id:        20206415 
+    Name:      Storm Johannesen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20205976 
+    Name:      Aksel Bundgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20207042 
+    Name:      Hannah Christoffersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+  Group: 14
+    Id:        20201885 
+    Name:      Esther Jacobsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20206342 
+    Name:      Otto Berg 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       24 
+
+    Id:        20202684 
+    Name:      Victor Gade 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20207044 
+    Name:      Emily Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20207635 
+    Name:      Ella Ida Damgaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       21 
+
+  Group: 15
+    Id:        20203849 
+    Name:      Caroline Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20202719 
+    Name:      Liva Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20209601 
+    Name:      Liv Sofia Danielsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       20 
+
+    Id:        20202964 
+    Name:      Justin Fayzi 
+    Sex:       male 
+    Ethnicity: Palestinian 
+    Age:       22 
+
+    Id:        20208660 
+    Name:      Liva Bruun 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+  Group: 16
+    Id:        20207964 
+    Name:      Johanne Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20203810 
+    Name:      Frida Emilie Brodersen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20206995 
+    Name:      Alex Alex Ghofran 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       24 
+
+    Id:        20207981 
+    Name:      Villads August Jespersen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20209772 
+    Name:      Milas Damgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+  Group: 17
+    Id:        20205007 
+    Name:      Johanne Liva Andreasen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20208829 
+    Name:      Lauge Carstensen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20203847 
+    Name:      Matthias Fischer 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20205302 
+    Name:      Emma Luna Bang 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20202691 
+    Name:      Kevin Orhan Ghirmai 
+    Sex:       male 
+    Ethnicity: Lebanes 
+    Age:       28 
+
+  Group: 18
+    Id:        20205377 
+    Name:      Anton Johannsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20206618 
+    Name:      Mario Fazila 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       27 
+
+    Id:        20203794 
+    Name:      Ellie Juul 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20202499 
+    Name:      Mounia Fayzee 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+    Id:        20208290 
+    Name:      Asger Emil Beck 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+  Group: 19
+    Id:        20203679 
+    Name:      Vigga Hassan 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20201020 
+    Name:      Elias Ibsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20209755 
+    Name:      Andrea Ellie Ibsen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       26 
+
+    Id:        20201188 
+    Name:      Aksel Hedegaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       21 
+
+    Id:        20204988 
+    Name:      Adam Carl Hjorth 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+  Group: 20
+    Id:        20203909 
+    Name:      Saliha Ghoulam 
+    Sex:       female 
+    Ethnicity: Syrian 
+    Age:       25 
+
+    Id:        20205731 
+    Name:      Matthias Theo Johansson 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       22 
+
+    Id:        20208043 
+    Name:      Sebastian Dalsgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       28 
+
+    Id:        20206149 
+    Name:      Mikkel Frederik Frost 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+
+    Id:        20206369 
+    Name:      Maja Emilie Hougaard 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       23 
+
+  Group: 21
+    Id:        20208529 
+    Name:      Asger Bech 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       27 
+
+    Id:        20206444 
+    Name:      Sabrina Gizaw 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       20 
+
+    Id:        20208438 
+    Name:      Melina Ghofran 
+    Sex:       female 
+    Ethnicity: Lebanes 
+    Age:       21 
+
+    Id:        20203385 
+    Name:      Isabella Asmussen 
+    Sex:       female 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20202364 
+    Name:      Sonia Marwa Ghozeil 
+    Sex:       female 
+    Ethnicity: French 
+    Age:       21 
+
+  Group: 22
+    Id:        20207648 
+    Name:      Orhan Ghina 
+    Sex:       male 
+    Ethnicity: French 
+    Age:       29 
+
+    Id:        20203894 
+    Name:      Philip Malthe Bendtsen 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20209671 
+    Name:      Loui Beck 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       29 
+
+    Id:        20209916 
+    Name:      Milas Dalgaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       25 
+
+    Id:        20208027 
+    Name:      Liam Alexander Hougaard 
+    Sex:       male 
+    Ethnicity: Danish 
+    Age:       23 
+

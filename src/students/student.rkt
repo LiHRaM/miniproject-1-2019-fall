@@ -1,8 +1,6 @@
 #lang racket
-(provide student? student process-students)
+(provide student)
 
-(define (student? obj)
-    (eq? 'student (send 'type-of obj)))
 
 (define (student info)
     (let ([get-id        (first    info)]
@@ -29,6 +27,3 @@
             )]
             [(eq? message 'type-of) 'student]
             [else (error "Student does not support " message)]))))
-
-(define (process-students lst)
-    (map student lst))
